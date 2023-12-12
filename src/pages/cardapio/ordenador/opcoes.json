@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Nenhum",
+    "value": ""
+  },
+  {
+    "nome": "Maior Porção",
+    "value": "maior_porcao"
+  },
+  {
+    "nome": "Menor Porção",
+    "value": "menor_porcao"
+  },
+  {
+    "nome": "Maior Qtd. pessoas",
+    "value": "maior_qtd_pessoas"
+  },
+  {
+    "nome": "Menor Qtd. pessoas",
+    "value": "menor_qtd_pessoas"
+  },
+  {
+    "nome": "Maior Preço",
+    "value": "maior_preco"
+  },
+  {
+    "nome": "Menor Preço",
+    "value": "menor_preco"
+  }
+]
