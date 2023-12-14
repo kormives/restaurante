@@ -2,7 +2,7 @@ import Inicio from './pages/inicio/';
 import Cardapio from './pages/cardapio/';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Menu from './components/menu/index';
-import PaginaPadrao from './components/';
+import PaginaPadrao from './components/paginaPadrao/index';
 import React from 'react';
 
 export default function AppRouter() {
