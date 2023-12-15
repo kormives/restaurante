@@ -1,12 +1,5 @@
 @import 'styles/variaveis';
 
-.titulo {
-  color: $dark;
-  font-size: 3rem;
-  margin-bottom: 30px;
-  margin: 40px;
-}
-
 .recomendados {
   border-radius: 2px;
   display: flex;
@@ -18,7 +11,7 @@
 .recomendado {
   &__imagem {
     width: 300px;
-    margin: 45px;
+    margin-bottom: 50px;
 
     img {
       border-radius: 8px;
@@ -45,7 +38,7 @@
 }
 
 .nossaCasa {
-  margin-bottom: 100px;
+  margin-bottom: 75px;
   position: relative;
   width: 100%;
 
